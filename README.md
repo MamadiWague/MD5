@@ -7,4 +7,4 @@ cc md5-test.c md5.c            -o md5-test
 
 Aprés cela un executable va apparaitre.
 il va falloir faire la commande : 
-./le nom de l'executable	
+./ le nom de l'executable	
